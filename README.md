@@ -2,7 +2,6 @@
 Master Dissertation: The paper studies the nature of gender-role attitudes held by young american adults conditional on the family structure. 
 Analysis and critics of the paper of Marianne Bertrand, replication of the code, and further propositions and results.
 
-We especially compared the empirical strategy of the author with the results of an Ordered Probit Model. 
 
 This work was made in collaboration with Imrane Boucher.
 
